@@ -445,6 +445,20 @@
     </plugins>
   </reporting>
 
+	<distributionManagement>
+		<repository>
+			<id>pb-build01</id>
+			<name>pb-ext-releases</name>
+			<url>https://pbbuild.planbdigital.com/artifactory/ext-release-local</url>
+		</repository>
+		<snapshotRepository>
+			<id>pb-build01</id>
+			<name>pb-ext-snapshots</name>
+			<url>https://pbbuild.planbdigital.com/artifactory/ext-snapshot-local</url>
+		</snapshotRepository>
+	</distributionManagement>
+
+
   <modules>
     <module>stomp-api</module>
     <module>stomp-common</module>
