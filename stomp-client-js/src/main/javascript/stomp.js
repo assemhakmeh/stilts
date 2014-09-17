@@ -353,7 +353,7 @@ Stomp.Transport.WebSocket.prototype = {
 }
 
 
-//Stomp.Transports.push( Stomp.Transport.WebSocket );
+Stomp.Transports.push( Stomp.Transport.WebSocket );
 
 
 
