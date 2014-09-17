@@ -20,8 +20,8 @@
   </description>
 
   <scm>
-    <connection>scm:git:git://github.com/projectodd/stilts.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/projectodd/stilts.git</developerConnection>
+    <connection>scm:git:git://github.com/assemhakmeh/stilts.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/assemhakmeh/stilts.git</developerConnection>
     <url>${stilts.scm.url}</url>
     <tag>HEAD</tag>
   </scm>
@@ -35,7 +35,7 @@
   </developers>
 
   <properties>
-    <stilts.scm.url>http://github.com/projectodd/stilts</stilts.scm.url>
+    <stilts.scm.url>http://github.com/assemhakmeh/stilts</stilts.scm.url>
     <version.cobertura>2.5</version.cobertura>
     <version.el-api>2.2</version.el-api>
     <version.hamcrest>1.1</version.hamcrest>
