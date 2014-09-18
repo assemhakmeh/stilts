@@ -10,7 +10,7 @@
 
   <groupId>org.projectodd.stilts</groupId>
   <artifactId>stilts</artifactId>
-  <version>0.1.41-pbd</version>
+  <version>0.1.42-pbd-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Stilts</name>
   <url>http://www.jboss.org/</url>
@@ -23,7 +23,7 @@
     <connection>scm:git:git://github.com/assemhakmeh/stilts.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/assemhakmeh/stilts.git</developerConnection>
     <url>${stilts.scm.url}</url>
-    <tag>stilts-0.1.41-pbd</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
